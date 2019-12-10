@@ -85,7 +85,13 @@ background-position: top right;
 }
 }
 
+/* .back_div{
+  position: fixed;
+} */
+
 .contanit_div{
+  width:600px;
+  height: 600px;
   opacity: 1;
   z-index: 999;
   position: fixed;
